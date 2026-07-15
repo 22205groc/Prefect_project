@@ -2,7 +2,6 @@ alphabet = ["a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p","q",
 data_in = [["harold","dave","albert","danial","auther","ben","dylan"],[1,2,3,4,5,6,7],[1,2,3,4,5,6,7],[["bunking"],["sent out","bunking"],["bunking","bunking","late"],["rep","late","sent out","rep"],["sent out","late","late","rep","sent out"],["late","late","rep","rep","rep","rep"],["rep","rep","rep","late","late","sent out","late"]]] # names(str), Hp(int), Bp(int), Bp reasons(2d)(str)
 #sort data using bubble sort
 i = 0
-
 swaps = True
 while swaps == True:
     swaps = False
